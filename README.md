@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @FFurkanClk
 - 👀 I’m interested in Computer Science
-- 🌱 I’m currently learning C++ and Python
+- 🌱 I’m currently learning C++,Node.Js and Python
 - 📫 How to reach me furkanclkk@hotmail.com & linkedin www.linkedin.com/in/fevzi-furkan-çelik
 
 
